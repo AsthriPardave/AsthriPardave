@@ -1,5 +1,5 @@
 <div align="center">
-    <!-- <img src="./logo.png"/> -->
+    <img src="./logo_Asthri.png"/>
   </a>
 </div>
 <h2 align="center">

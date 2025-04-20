@@ -13,4 +13,6 @@
     <img width="40" height="40" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
     <img width="40" height="40" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/>
     <img width="40" height="40" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
+    <img width="40" height="40" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+    <img width="40" height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 </div>

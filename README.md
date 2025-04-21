@@ -11,7 +11,7 @@
     <a href="https://www.instagram.com/joanne_pj5/"><img width="40" height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
 </div>
 
-<p>👩‍💻 Software Engineering student | Passionate about continuous learning 📚, especially in IoT 🌐 and full-stack development 💻.
+<p>Passionate about continuous learning 📚, especially in IoT 🌐 and full-stack development 💻.
 I'm a responsible, proactive, and adaptable person who thrives in team environments 🤝. With strong communication skills 🗣️ and a perseverant mindset, I'm always ready to grow both personally and professionally 🚀.</p>
 <br/>
 <h2><b>Languages and Tools</b></h2>

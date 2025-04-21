@@ -15,7 +15,7 @@
 <p>Software Engineering student. Passionate about constant learning, with a special interest in IoT and full-stack development.</p>
 
 <h3><b>Lenguages and Tools</b></h3>
-<div align="center">
+<div>
     <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
     <img width="40" height="40" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
     <img width="40" height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>

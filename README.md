@@ -26,3 +26,8 @@
     <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
     <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 </div>
+<br/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsthriPardave&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsthriPardave&show_icons=true&theme=dark"/>
+</div>

@@ -7,9 +7,8 @@
 
 <h3 align="center">Software Engineering Student</h3>
 <div align="center">
-    <a href="#"><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
-    <a href="#"><img width="40" height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>
-    <a href="#"><img width="40" height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
+    <a href="www.linkedin.com/in/asthri-pardavé-jara"><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+    <a href="https://www.instagram.com/joanne_pj5/"><img width="40" height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
 </div>
 
 <p>Software Engineering student. Passionate about constant learning, with a special interest in IoT and full-stack development.</p>

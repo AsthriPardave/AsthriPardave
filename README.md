@@ -14,7 +14,7 @@
 <p>👩‍💻 Software Engineering student | Passionate about continuous learning 📚, especially in IoT 🌐 and full-stack development 💻.
 I'm a responsible, proactive, and adaptable person who thrives in team environments 🤝. With strong communication skills 🗣️ and a perseverant mindset, I'm always ready to grow both personally and professionally 🚀.</p>
 <br/>
-<h2><b>Lenguages and Tools</b></h2>
+<h2><b>Languages and Tools</b></h2>
 <div>
     <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
     <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>

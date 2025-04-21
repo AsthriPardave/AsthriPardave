@@ -12,7 +12,7 @@
 </div>
 
 <p>Software Engineering student. Passionate about constant learning, with a special interest in IoT and full-stack development.</p>
-
+<br/>
 <h2><b>Lenguages and Tools</b></h2>
 <div>
     <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
@@ -25,6 +25,7 @@
     <img width="50" height="50" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
     <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
     <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 </div>
 <br/>
 <div align="center">

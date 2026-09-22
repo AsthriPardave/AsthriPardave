@@ -11,7 +11,7 @@
     <a href="https://www.instagram.com/joanne_pj5/"><img width="40" height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
 </div>
 
-<p>Passionate about continuous learning 📚, especially in IoT 🌐 and full-stack development 💻.
+<p>
 Final-year Software Engineering student with experience in web development, process analysis, and information management. Experienced in developing applications using Laravel, PHP, JavaScript, and Tailwind CSS, with additional knowledge of React, Node.js, Python, and SQL databases. Familiar with MVC architectures, REST APIs, Docker, and Agile methodologies.
 </p>
 <br/>

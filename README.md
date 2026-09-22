@@ -12,7 +12,8 @@
 </div>
 
 <p>Passionate about continuous learning 📚, especially in IoT 🌐 and full-stack development 💻.
-I'm a responsible, proactive, and adaptable person who thrives in team environments 🤝. With strong communication skills 🗣️ and a perseverant mindset, I'm always ready to grow both personally and professionally 🚀.</p>
+Final-year Software Engineering student with experience in web development, process analysis, and information management. Experienced in developing applications using Laravel, PHP, JavaScript, and Tailwind CSS, with additional knowledge of React, Node.js, Python, and SQL databases. Familiar with MVC architectures, REST APIs, Docker, and Agile methodologies.
+</p>
 <br/>
 <h2><b>Languages and Tools</b></h2>
 <div>
